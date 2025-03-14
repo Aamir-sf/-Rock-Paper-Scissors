@@ -73,45 +73,6 @@ img {
     border-radius: 1.5rem;
 }
 
-footer {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    margin-top: 5.9rem;
-    padding: 0rem;
-    background-color: #081b31;
-    color: white;
-}
-
-.footer-content {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-.copyright {
-    font-size: 0.8rem;
-    color: #fff;
-    margin-top: 0.5rem;
-    text-align: center;
-}
-
-.social {
-    width: 60vw;
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-    font-size: 1.2em;
-    background-color: #081b31;
-    padding: 1rem;
-    border-radius: 1rem;
-}
-i{
-    color: white;
-}
-
-/* Media Queries for Responsiveness */
 @media (max-width: 768px) {
     h1 {
         height: 4rem;
